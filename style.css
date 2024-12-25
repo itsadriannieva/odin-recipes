@@ -1,0 +1,29 @@
+h1 {
+    text-align: center;
+    color: bisque;
+    background-color: black;
+}
+
+ul li {
+    color: firebrick;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+h3,
+h4 {
+    text-align: center;
+    background-color: blanchedalmond;
+}
+
+p {
+   text-align: center; 
+}
+ul li{
+    text-align: justify;
+    color: black;
+}
