@@ -1,29 +1,35 @@
 h1 {
-    text-align: center;
-    color: bisque;
-    background-color: black;
+  text-align: center;
+  margin: 0 auto;
+  height: auto;
+  width: auto;
+  padding: 8px;
+  border-color: rgb(196, 255, 222);
+  border: 2px solid bisque;
+  color: bisque;
+  background-color: black;
+  margin-bottom: 20px;
 }
-
-ul li {
-    color: firebrick;
+ul {
+  text-align: center;
+  color: black;
+  padding: 10px;
+  margin: 5px;
 }
 
 img {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
+
 h3,
 h4 {
-    text-align: center;
-    background-color: blanchedalmond;
+  text-align: center;
+  background-color: blanchedalmond;
 }
 
 p {
-   text-align: center; 
-}
-ul li{
-    text-align: justify;
-    color: black;
+  text-align: center;
 }
